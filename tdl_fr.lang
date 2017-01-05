@@ -1,0 +1,4 @@
+#! /bin/bash
+text_alreadyDl="\e[31mFichier déjà téléchargé\e[0m"
+text_partial="\e[1mFichier partiel.\e[00m Appuyez sur une touche pour annuler. "
+text_cancel="Annulé."

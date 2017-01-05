@@ -1,0 +1,4 @@
+#! /bin/bash
+text_alreadyDl="\e[31mDatei bereits heruntergeladen\e[0m"
+text_partial="\e[1mUnvollständige Datei.\e[00m Drücken Sie eine beliebige Taste, um abzubrechen."
+text_cancel="Abgebrochen."
